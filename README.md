@@ -1,0 +1,2 @@
+# PJ_SeafoodMarketAnalytics2026
+輸出業界の動向や競合について分析するリポジトリ
